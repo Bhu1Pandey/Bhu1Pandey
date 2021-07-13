@@ -38,16 +38,6 @@ Hi, I'm Bhuone Pandey, a passionate self-taught Frontend web developer as well a
 <br/>
 <br/>
 
-<a href="https://github-readme-stats.vercel.app/api?username=bhuwanpandey&show_icons=true&include_all_commits=true&theme=material-palenight">
-<img align="center" alt="bhuwan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bhuwanpandey&show_icons=true&include_all_commits=true&theme=material-palenight" />
-</a>
-
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuwanpandey&layout=compact&theme=material-palenight">
-<img align="center" alt="bhuwan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuwanpandey&layout=compact&theme=material-palenight" />
-</a>
-
-
 
 [website]: https://myprojecttech.blogspot.com/
 [youtube]: https://www.youtube.com/channel/UC_aXqLi5gdhfqG6XwokSAXw
